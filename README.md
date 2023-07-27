@@ -26,12 +26,12 @@
           <td>Верстка</td>
           <td>
             <ul>
-              <li><a href="#">С чистого листа</a></li>
+              <li><a href="https://github.com/ilkaxd/from-scratch" target="_blank">С чистого листа</a></li>
             </ul>
           </td>
           <td>
             <ul>
-              <li><a href="https://github.com/ilkaxd/ono-tebe-nado">Оно тебе надо</a></li>
+              <li><a href="https://github.com/ilkaxd/ono-tebe-nado" target="_blank">Оно тебе надо</a></li>
             </ul>
           </td>
           <td>
