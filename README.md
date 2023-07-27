@@ -31,7 +31,7 @@
           </td>
           <td>
             <ul>
-              <li><a href="#">Оно тебе надо</a></li>
+              <li><a href="https://github.com/ilkaxd/ono-tebe-nado">Оно тебе надо</a></li>
             </ul>
           </td>
           <td>
