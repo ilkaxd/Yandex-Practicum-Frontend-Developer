@@ -35,12 +35,6 @@
             </ul>
           </td>
           <td>
-            <ul>
-              <li><a href="#">Верстка 1</a></li>
-              <li><a href="#">Верстка 2</a></li>
-              <li><a href="#">Верстка 3</a></li>
-              <li><a href="#">Верстка 4</a></li>
-            </ul>
           </td>
         </tr>
       </tbody>
