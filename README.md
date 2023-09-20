@@ -60,7 +60,7 @@
           <td>Адаптивность и графика</td>
           <td>
             <ul>
-              <li><a href="#" target="_blank">#</a></li>
+              <li><a href="https://github.com/ilkaxd/karty-podskazhut" target="_blank">Карты подскажут</a></li>
             </ul>
           </td>
           <td>
