@@ -39,7 +39,7 @@
           <td>2</td>
           <td>Доступность и подходы к организации стилей</td>
           <td>
-            <a href="#" target="_blank">#</a>
+            <a href="https://github.com/ilkaxd/nado_sdelat_idealno" target="_blank">Надо сделать идеально</a>
           </td>
           <td>
             <a href="https://github.com/ilkaxd/posmotri_v_okno" target="_blank">Посмотри в окно</a>
