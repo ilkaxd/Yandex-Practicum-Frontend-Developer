@@ -27,14 +27,10 @@
           <td>1</td>
           <td>Семантика и лэаут</td>
           <td>
-            <ul>
-              <li><a href="https://github.com/ilkaxd/from-scratch" target="_blank">С чистого листа</a></li>
-            </ul>
+            <a href="https://github.com/ilkaxd/from-scratch" target="_blank">С чистого листа</a>
           </td>
           <td>
-            <ul>
-              <li><a href="https://github.com/ilkaxd/ono-tebe-nado" target="_blank">Оно тебе надо</a></li>
-            </ul>
+            <a href="https://github.com/ilkaxd/ono-tebe-nado" target="_blank">Оно тебе надо</a>
           </td>
           <td>
           </td>
@@ -43,14 +39,10 @@
           <td>2</td>
           <td>Доступность и подходы к организации стилей</td>
           <td>
-            <ul>
-              <li><a href="#" target="_blank">#</a></li>
-            </ul>
+            <a href="#" target="_blank">#</a>
           </td>
           <td>
-            <ul>
-              <li><a href="#" target="_blank">#</a></li>
-            </ul>
+            <a href="https://github.com/ilkaxd/posmotri_v_okno" target="_blank">Посмотри в окно</a>
           </td>
           <td>
           </td>
@@ -59,13 +51,11 @@
           <td>3</td>
           <td>Адаптивность и графика</td>
           <td>
-            <ul>
-              <li><a href="https://github.com/ilkaxd/karty-podskazhut" target="_blank">Карты подскажут</a></li>
-            </ul>
+            <a href="https://github.com/ilkaxd/karty-podskazhut" target="_blank">Карты подскажут</a>
           </td>
           <td>
             <ul>
-              <li><a href="#" target="_blank">#</a></li>
+              <a href="#" target="_blank">#</a>
             </ul>
           </td>
           <td>
