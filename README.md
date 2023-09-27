@@ -55,7 +55,7 @@
           </td>
           <td>
             <ul>
-              <a href="#" target="_blank">#</a>
+              <a href="https://github.com/ilkaxd/slozhno-sosredotochitsya" target="_blank">Сложно сосредоточиться</a>
             </ul>
           </td>
           <td>
