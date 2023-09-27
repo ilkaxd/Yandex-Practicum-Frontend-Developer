@@ -54,9 +54,7 @@
             <a href="https://github.com/ilkaxd/karty-podskazhut" target="_blank">Карты подскажут</a>
           </td>
           <td>
-            <ul>
-              <a href="https://github.com/ilkaxd/slozhno-sosredotochitsya" target="_blank">Сложно сосредоточиться</a>
-            </ul>
+            <a href="https://github.com/ilkaxd/slozhno-sosredotochitsya" target="_blank">Сложно сосредоточиться</a>
           </td>
           <td>
           </td>
