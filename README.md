@@ -59,6 +59,18 @@
           <td>
           </td>
         </tr>
+        <tr>
+          <td>4</td>
+          <td>Декорирование, подходы и инструменты</td>
+          <td>
+           
+          </td>
+          <td>
+            <a href="https://github.com/ilkaxd/zakrivayuschiy-teg-f" target="_blank">Закрывающий тег</a>
+          </td>
+          <td>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
