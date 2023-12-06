@@ -61,6 +61,15 @@
             <a href="https://github.com/ilkaxd/zakrivayuschiy-teg-f" target="_blank">Закрывающий тег</a>
           </td>
         </tr>
+        <tr>
+          <td>5-7</td>
+          <td>Блок JavaScript</td>
+          <td>
+          </td>
+          <td>
+            <a href="https://github.com/ilkaxd/zakrivayuschiy-teg-f" target="_blank">Место</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
