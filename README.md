@@ -19,7 +19,6 @@
           <th>Блок</th>
           <th>Кейсы в спринте</th>
           <th>Проектная работа</th>
-          <th>Доп проекты</th>
         </tr>
       </thead>
       <tbody>
@@ -44,8 +43,6 @@
           <td>
             <a href="https://github.com/ilkaxd/posmotri_v_okno" target="_blank">Посмотри в окно</a>
           </td>
-          <td>
-          </td>
         </tr>
         <tr>
           <td>3</td>
@@ -56,8 +53,6 @@
           <td>
             <a href="https://github.com/ilkaxd/slozhno-sosredotochitsya" target="_blank">Сложно сосредоточиться</a>
           </td>
-          <td>
-          </td>
         </tr>
         <tr>
           <td>4</td>
@@ -66,8 +61,6 @@
           </td>
           <td>
             <a href="https://github.com/ilkaxd/zakrivayuschiy-teg-f" target="_blank">Закрывающий тег</a>
-          </td>
-          <td>
           </td>
         </tr>
       </tbody>
