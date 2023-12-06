@@ -67,7 +67,7 @@
           <td>
           </td>
           <td>
-            <a href="https://github.com/ilkaxd/zakrivayuschiy-teg-f" target="_blank">Место</a>
+            <a href="https://github.com/ilkaxd/mesto-project-ff" target="_blank">Место</a>
           </td>
         </tr>
       </tbody>
