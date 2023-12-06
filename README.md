@@ -31,8 +31,6 @@
           <td>
             <a href="https://github.com/ilkaxd/ono-tebe-nado" target="_blank">Оно тебе надо</a>
           </td>
-          <td>
-          </td>
         </tr>
         <tr>
           <td>2</td>
