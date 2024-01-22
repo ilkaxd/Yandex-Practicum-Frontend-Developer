@@ -70,6 +70,15 @@
             <a href="https://github.com/ilkaxd/mesto-project-ff" target="_blank">Место</a>
           </td>
         </tr>
+        <tr>
+          <td>8</td>
+          <td>TypeScript и ООП</td>
+          <td>
+            <a href="https://github.com/ilkaxd/Film" target="_blank">Film!</a>
+          </td>
+          <td>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
