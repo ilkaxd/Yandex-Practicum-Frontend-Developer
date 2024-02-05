@@ -86,6 +86,7 @@
             <a href="https://github.com/ilkaxd/ono-tebe-nado-v2" target="_blank">Оно тебе надо v.2</a>
           </td>
           <td>
+            <a href="https://github.com/ilkaxd/web-larek-frontend" target="_blank">Веб-ларек</a>
           </td>
         </tr>
       </tbody>
