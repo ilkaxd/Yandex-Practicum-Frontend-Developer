@@ -89,6 +89,15 @@
             <a href="https://github.com/ilkaxd/web-larek-frontend" target="_blank">Веб-ларек</a>
           </td>
         </tr>
+        <tr>
+          <td>10</td>
+          <td>Основы React</td>
+          <td>
+          </td>
+          <td>
+            <a href="https://github.com/ilkaxd/blog-customizer" target="_blank">Вёрстка проекта</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
