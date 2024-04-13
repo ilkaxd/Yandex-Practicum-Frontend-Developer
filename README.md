@@ -98,6 +98,15 @@
             <a href="https://github.com/ilkaxd/blog-customizer" target="_blank">Вёрстка проекта</a>
           </td>
         </tr>
+        <tr>
+          <td>11</td>
+          <td>Роутинг и авторизация</td>
+          <td>
+          </td>
+          <td>
+            <a href="https://github.com/ilkaxd/stellar-burger" target="_blank">Stellar Burger</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
