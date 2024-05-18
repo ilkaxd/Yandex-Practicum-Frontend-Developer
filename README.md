@@ -110,6 +110,16 @@
             <a href="https://github.com/ilkaxd/stellar-burger" target="_blank">Stellar Burger</a>
           </td>
         </tr>
+        <tr>
+          <td>Проектный месяц</td>
+          <td>
+            <a href="https://github.com/ProCharity-Practicum/ProCharity-Platform">Проект ProCharity</a>
+          <td>
+          </td>
+          <td>
+            <a href="https://github.com/orgs/ProCharity-Practicum/projects/1/views/1?pane=issue&itemId=62679235">Task 1</a> и <a href="https://github.com/orgs/ProCharity-Practicum/projects/1/views/1?filterQuery=assignee%3Ailkaxd&pane=issue&itemId=63164812">Task 2</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
